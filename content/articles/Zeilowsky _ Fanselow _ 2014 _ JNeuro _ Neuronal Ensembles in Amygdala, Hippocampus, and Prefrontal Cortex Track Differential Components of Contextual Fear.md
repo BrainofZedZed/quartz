@@ -15,7 +15,7 @@ Using catFISH with Arc mRNA, after contextual fear conditioning and an immediate
 [[Kitamura...Tonegawa (2017) Science. Engrams and circuits crucial for systems consolidation of a memory]]
 [[Prelimbic is required for recall of learned fear.]]
 [[Do-Monte...Quirk (2015) Nature. A temporal shift in the circuits mediating fear memory]]
-[[Sierra-Mercado _ Quirk _ Neuropsychopharm _ 2010 _ Dissociable Roles of Prelimbic and Infralimbic Cortices, Ventral Hippocampus, and Basolateral Amygdala in the Expression and Extinction of Conditioned Fear]]
+[[Sierra-Mercado _ Quirk _ Neuropsychopharm _ 2010 _ Dissociable Roles of Prelimbic and Infralimbic Cortices___]]
 
 # Comments
 
