@@ -1,0 +1,1 @@
+In humans, the dorsal anterior cingulate cortex (dACC) is activated during fear learning (9), and patients with fear and anxiety disorders exhibit dACC hyperactivity in response to fearful cues (8). The putative dACC homolog in rodents is the [[prelimbic]] (PL) (10, 11), a subregion of mPFC.

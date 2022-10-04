@@ -1,0 +1,1 @@
+During [[remote memory]] recall but not recent cued fear recall, [[temporal association cortex]] is highly synchronized with [[basolateral amygdala]], in low theta range. (~ 3 Hz) TeA leads BLA activity.

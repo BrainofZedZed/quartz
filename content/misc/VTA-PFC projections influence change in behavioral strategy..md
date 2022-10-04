@@ -1,0 +1,1 @@
+In summary, our findings suggest a very simple model for the effects of stimulation of the VTA–mPFC projection on behavior: tonic stimulation leads to perseveration, whereas phasic bursts can lead to behavior that deviates from previously learned rules when the bursts follow choices not previously associated with reward.

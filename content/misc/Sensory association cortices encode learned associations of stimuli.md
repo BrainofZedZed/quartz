@@ -1,0 +1,1 @@
+Secondary sensory cortices encode learned associations of sensory stimulus, largely in modality specific ways.

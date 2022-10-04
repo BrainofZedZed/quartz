@@ -1,0 +1,2 @@
+Population encoding in the [[basolateral amygdala]] of the CS+ grows more similar to the US after fear conditioning, and grows less similar with extinction. The similarity of these representations correlate with freezing.
+* from [[Grewe...Schnitzer (2017) Nature. Neural ensemble dynamics underlying a long-term associative memory]]

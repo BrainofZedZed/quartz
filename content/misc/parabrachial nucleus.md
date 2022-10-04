@@ -1,0 +1,1 @@
+The parabrachial nucleus (PBN) is a hindbrain region that receives most ascending sensory and nociceptive information from the spinal cord and relays negative affective information (visceral, taste, temperature, pain, itch) to cortical and subcortical areas. [[paraventricular]] thalamus is one target of PBN projections that regulate negative affective states.

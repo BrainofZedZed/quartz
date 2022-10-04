@@ -1,0 +1,1 @@
+[[temporal association cortex]] projects to [[basolateral amygdala]].

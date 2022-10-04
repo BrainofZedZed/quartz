@@ -1,0 +1,3 @@
+From Todd Travis R01:
+
+> To date, a substantial body of research has identified discrete neural systems that support recent versus remote contextual memory, and other studies have identified the substrates of recently-acquired cue-specific memory and extinction, but very little work has focused on the brain mechanisms involved in remote cue- specific memory and extinction. This is important to resolve particularly with respect to PTSD since individuals often do not seek therapy until long after the traumatic event, especially in cases of combat trauma or sexual assault.

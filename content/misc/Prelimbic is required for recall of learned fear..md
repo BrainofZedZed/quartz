@@ -1,0 +1,1 @@
+Using pharmacological inactivation (TTX) of [[prelimbic]], [[Corcoran & Quirk (2007) Journal of Neuroscience. Activity in prelimbic cortex is necessary for the expression of learned, but not innate, fears]] found that PL is required for expression of learned fears at 1d recall, but not expression of innate fears, nor acquisition of learned fears

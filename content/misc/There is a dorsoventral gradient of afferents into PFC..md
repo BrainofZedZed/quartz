@@ -1,0 +1,2 @@
+There is a dorsoventral shift from primarily sensorimotor input into dorsal mPFC (agranular and dorsal anterior cingulate) to primarily limbic input into ventral mPFC ([[prelimbic]] and [[infralimbic]]).
+* from [[Hoover & Vertes (2007) Brain Struct Funct. Anatomical analysis of afferent projections ot the medial prefrontal cortex in the rat]]

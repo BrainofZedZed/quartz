@@ -1,0 +1,1 @@
+Found multiple ensembles of [[lateral visual association cortex]] neurons, each of which encoded specific visual stimulus. Did NOT find motivationally sensitive neurons. Did find sensitivity to predicted outcomes (ie cue saliency, reward history). Little overlap in neurons encoding stimulus features and outcomes. 

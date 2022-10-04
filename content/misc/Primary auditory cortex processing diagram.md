@@ -1,0 +1,5 @@
+#diagram #auditory [[PFC]] [[auditory cortex]]
+![[Pasted image 20220317081613.png]]
+
+>Figure 2. Connections and levels of processing in the primate auditory cortex. Solid lines denote major connections, and dashed lines denote minor connections. The main stream of processing involves the central nucleus of the inferior colliculus (ICc), the ventral nucleus of the medial geniculate complex (MGv), and the core areas of the auditory cortex. A parallel stream also involves the dorsal (ICd) and pericentral (ICp) divisions of the inferior colliculus, the dorsal (MGd) and medial (MGm) divisions of the medial geniculate complex, and the belt cortex. The superior colliculus (SC) projects to parts of the medial pulvinar (PM), suprageniculate (Sg) and limitans (Lim) nuclei, as a possible third source of auditory input to the parabelt cortex. Additional levels of processing involve cortex of the superior temporal gyrus (STG) adjoining the belt and parabelt regions, superior temporal sulcus (STS), and prefrontal cortex. The preferential connections of rostral (R) and caudal (C) sectors of cortex are indicated.
+From Kaas...Tramo (1999) Curr Op Neurobio
